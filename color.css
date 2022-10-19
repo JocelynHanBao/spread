@@ -1,0 +1,63 @@
+:root {
+    -webkit-padding-start: 30px;
+    margin-right: 30px;
+    --body-copy: 16px;
+    --pagespacing: 24px;
+    --main-heading: calc(var( --body-copy) * 3);
+    --sub-heading: calc(var( --body-copy) * 1);
+}
+
+@media (min-width: 768px) {
+    :root {
+    --body-copy: 20px;
+    --pagespacing: 50px;
+
+    --main-heading: calc(var( --body-copy) * 4.5);
+    --sub-heading: calc(var( --body-copy) * 1);
+}
+
+p {
+    margin-left: 500px;
+    width: 65ch;
+}
+Body {
+    font-family: sans-serif;
+    font-size: var(--body-copy);
+    margin: 48px;
+   
+}
+
+Body > * {
+    padding: var(--page-spacing);
+}
+
+H1 { 
+    font-size: var(--main-heading);
+    font-family: dm serif display, serif;
+    
+}
+
+H2 { font-size: var(--sub-heading);
+    font-family: dm serif display, serif;
+    color: rgb(91, 91, 91);
+    font-style: italic;
+}
+
+H3 {
+    font-family: dm serif display, serif;
+    display: flex;
+    flex-direction: column;
+   
+}
+    
+header {
+    display: flex;
+    flex-direction: column;
+    gap: var(--page-spacing);
+}
+
+@media (min-width: 768px) {
+    header {
+        flex-direction: row;
+        justify-content: space-between;}}
+}
