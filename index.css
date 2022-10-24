@@ -1,751 +1,751 @@
 body {
-    width: 375px;
+  width: 375px;
   margin-left: auto;
   margin-right: auto;
-    background-color: #DDDBDB;
-  }
+  background-color: #dddbdb;
+}
 
 .title {
-    position: absolute;
-    width: 291px;
-    height: 88px;
-    left: 28px;
-    top: 28px;
-    font-family: 'DM Serif Display';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 36px;
-    line-height: 122.1%;
-    letter-spacing: 0.02em;
-    color: #000000;
+  position: absolute;
+  width: 291px;
+  height: 88px;
+  left: 28px;
+  top: 28px;
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 122.1%;
+  letter-spacing: 0.02em;
+  color: #000000;
 }
 
 .author {
-    position: absolute;
-    width: 130px;
-    height: 19px;
-    left: 28px;
-    top: 122px;
-    
-    font-family: 'DM Serif Display';
-    font-style: italic;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 19px;
-    letter-spacing: 0.02em;
-    
-    color: #3D3D3D;
+  position: absolute;
+  width: 130px;
+  height: 19px;
+  left: 28px;
+  top: 122px;
+
+  font-family: "DM Serif Display";
+  font-style: italic;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  letter-spacing: 0.02em;
+
+  color: #3d3d3d;
 }
 
 .header-right_text {
-    position: absolute;
-    width: 213px;
-    height: 34px;
-    left: 923px;
-    top: 151px;
-    
-    font-family: 'DM Serif Display';
-    font-style: italic;
-    font-weight: 400;
-    font-size: 25px;
-    line-height: 34px;
-    letter-spacing: 0.02em;
-    text-decoration-line: underline;
-    
-    color: #4B4B4B;
+  position: absolute;
+  width: 213px;
+  height: 34px;
+  left: 923px;
+  top: 151px;
+
+  font-family: "DM Serif Display";
+  font-style: italic;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 34px;
+  letter-spacing: 0.02em;
+  text-decoration-line: underline;
+
+  color: #4b4b4b;
 }
 
 /* gifs */
 
 .balls1 {
-    position: absolute;
-    width: 375px;
-    height: 378px;
-    left: 0px;
-    top: 228px;
-  }
+  position: absolute;
+  width: 375px;
+  height: 378px;
+  left: 0px;
+  top: 228px;
+}
 
 .balls2 {
-    position: absolute;
-width: 570px;
-height: 380px;
-left: -103px;
-top: 2644px;
+  position: absolute;
+  width: 570px;
+  height: 380px;
+  left: -103px;
+  top: 2644px;
 }
 
 .balls3 {
-position: absolute;
-width: 375px;
-height: 377px;
-left: 0px;
-top: 8072px;
+  position: absolute;
+  width: 375px;
+  height: 377px;
+  left: 0px;
+  top: 8072px;
 }
 
-  /* Color Psychology */
+/* Color Psychology */
 
 .smallheaderone {
-position: absolute;
-width: 223.37px;
-height: 35px;
-left: 28px;
-top: 652px;
+  position: absolute;
+  width: 223.37px;
+  height: 35px;
+  left: 28px;
+  top: 652px;
 
-font-family: 'DM Serif Display';
-font-style: normal;
-font-weight: 400;
-font-size: 24px;
-line-height: 33px;
-letter-spacing: 0.02em;
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 33px;
+  letter-spacing: 0.02em;
 
-color: #000000;
+  color: #000000;
 }
 
 .info {
-    position: absolute;
-    width: 323px;
-    height: 1584px;
-    left: 26px;
-    top: 718px;
-    
-    font-family: 'Helvetica';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    /* or 150% */
-    
-    letter-spacing: 0.02em;
-    
-    color: #3E3D3D;
+  position: absolute;
+  width: 323px;
+  height: 1584px;
+  left: 26px;
+  top: 718px;
+
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* or 150% */
+
+  letter-spacing: 0.02em;
+
+  color: #3e3d3d;
 }
 
 .bibliography {
-    position: absolute;
-    width: 315px;
-    height: 323px;
-    left: 26px;
-    top: 2265px;
-    
-    font-family: 'Helvetica';
-    font-style: italic;
-    font-weight: 400;
-    font-size: 15px;
-    line-height: 21px;
-    letter-spacing: 0.02em;
-    
-    color: #3E3D3D;
+  position: absolute;
+  width: 315px;
+  height: 323px;
+  left: 26px;
+  top: 2265px;
+
+  font-family: "Helvetica";
+  font-style: italic;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 21px;
+  letter-spacing: 0.02em;
+
+  color: #3e3d3d;
 }
 
 /* Colour and culture */
 
 .smallheadertwo {
-    position: absolute;
-    width: 162.55px;
-    height: 27px;
-    left: 26px;
-    top: 3070px;
-    
-    font-family: 'DM Serif Display';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 27px;
-    letter-spacing: 0.02em;
-    
-    color: #000000;
-    }
-    
-    .info2 {
-        position: absolute;
-        width: 322px;
-        height: 434px;
-        left: 27px;
-        top: 3125px;
-        
-        font-family: 'Helvetica';
-        font-style: normal;
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 24px;
-        /* or 150% */
-        
-        letter-spacing: 0.02em;
-        
-        color: #3A3A3A;
-    }
+  position: absolute;
+  width: 162.55px;
+  height: 27px;
+  left: 26px;
+  top: 3070px;
+
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 27px;
+  letter-spacing: 0.02em;
+
+  color: #000000;
+}
+
+.info2 {
+  position: absolute;
+  width: 322px;
+  height: 434px;
+  left: 27px;
+  top: 3125px;
+
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* or 150% */
+
+  letter-spacing: 0.02em;
+
+  color: #3a3a3a;
+}
 
 /* Colours */
 
 .blackt {
-    position: absolute;
-    width: 279px;
-    height: 37px;
-    left: 50px;
-    top: 3616px;
-    
-    font-family: 'DM Serif Display';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 27px;
-    letter-spacing: 0.02em;
-    
-    color: #000000;
+  position: absolute;
+  width: 279px;
+  height: 37px;
+  left: 50px;
+  top: 3616px;
+
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 27px;
+  letter-spacing: 0.02em;
+
+  color: #000000;
 }
 
 .infoblack {
-    position: absolute;
-    width: 307px;
-    height: 471px;
-    left: 36px;
-    top: 3657px;
-    
-    font-family: 'Helvetica';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    /* or 150% */
-    
-    letter-spacing: 0.02em;
-    
-    color: #383838;
+  position: absolute;
+  width: 307px;
+  height: 471px;
+  left: 36px;
+  top: 3657px;
+
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* or 150% */
+
+  letter-spacing: 0.02em;
+
+  color: #383838;
 }
 
 .whitet {
-    position: absolute;
-    width: 279px;
-    height: 37px;
-    left: 53px;
-    top: 4128px;
-    
-    font-family: 'DM Serif Display';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 27px;
-    letter-spacing: 0.02em;
-    
-    color: #000000;
+  position: absolute;
+  width: 279px;
+  height: 37px;
+  left: 53px;
+  top: 4128px;
+
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 27px;
+  letter-spacing: 0.02em;
+
+  color: #000000;
 }
 
 .infowhite {
-    position: absolute;
-    width: 307px;
-    height: 388px;
-    left: 36px;
-    top: 4169px;
-    
-    font-family: 'Helvetica';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    /* or 150% */
-    
-    letter-spacing: 0.02em;
-    
-    color: #3A3A3A;
+  position: absolute;
+  width: 307px;
+  height: 388px;
+  left: 36px;
+  top: 4169px;
+
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* or 150% */
+
+  letter-spacing: 0.02em;
+
+  color: #3a3a3a;
 }
 
 .yellowt {
-    position: absolute;
-    width: 279px;
-    height: 37px;
-    left: 53px;
-    top: 4614px;
-    
-    font-family: 'DM Serif Display';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 27px;
-    letter-spacing: 0.02em;
-    
-    color: #000000;
+  position: absolute;
+  width: 279px;
+  height: 37px;
+  left: 53px;
+  top: 4614px;
+
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 27px;
+  letter-spacing: 0.02em;
+
+  color: #000000;
 }
 
 .infoyellow {
-    position: absolute;
-    width: 307px;
-    height: 449px;
-    left: 39px;
-    top: 4657px;
-    
-    font-family: 'Helvetica';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    /* or 150% */
-    
-    letter-spacing: 0.02em;
-    
-    color: #3A3A3A;
+  position: absolute;
+  width: 307px;
+  height: 449px;
+  left: 39px;
+  top: 4657px;
+
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* or 150% */
+
+  letter-spacing: 0.02em;
+
+  color: #3a3a3a;
 }
 
 .oranget {
-    position: absolute;
-    width: 279px;
-    height: 37px;
-    left: 54px;
-    top: 5161px;
-    
-    font-family: 'DM Serif Display';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 27px;
-    letter-spacing: 0.02em;
-    
-    color: #000000;
+  position: absolute;
+  width: 279px;
+  height: 37px;
+  left: 54px;
+  top: 5161px;
+
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 27px;
+  letter-spacing: 0.02em;
+
+  color: #000000;
 }
 
 .infoorange {
-    position: absolute;
-width: 307px;
-height: 442px;
-left: 40px;
-top: 5203px;
+  position: absolute;
+  width: 307px;
+  height: 442px;
+  left: 40px;
+  top: 5203px;
 
-font-family: 'Helvetica';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
-/* or 150% */
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* or 150% */
 
-letter-spacing: 0.02em;
+  letter-spacing: 0.02em;
 
-color: #3A3A3A;
+  color: #3a3a3a;
 }
 
 .redt {
-    position: absolute;
-width: 279px;
-height: 37px;
-left: 53px;
-top: 5700px;
+  position: absolute;
+  width: 279px;
+  height: 37px;
+  left: 53px;
+  top: 5700px;
 
-font-family: 'DM Serif Display';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 27px;
-letter-spacing: 0.02em;
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 27px;
+  letter-spacing: 0.02em;
 
-color: #000000;
+  color: #000000;
 }
 
 .infored {
-    position: absolute;
-    width: 307px;
-    height: 483.08px;
-    left: 39px;
-    top: 5743.92px;
-    
-    font-family: 'Helvetica';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    /* or 150% */
-    
-    letter-spacing: 0.02em;
-    
-    color: #3A3A3A;
+  position: absolute;
+  width: 307px;
+  height: 483.08px;
+  left: 39px;
+  top: 5743.92px;
+
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* or 150% */
+
+  letter-spacing: 0.02em;
+
+  color: #3a3a3a;
 }
 
 .greent {
-    position: absolute;
-    width: 279px;
-    height: 37px;
-    left: 53px;
-    top: 6271px;
-    
-    font-family: 'DM Serif Display';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 27px;
-    letter-spacing: 0.02em;
-    
-    color: #000000;
+  position: absolute;
+  width: 279px;
+  height: 37px;
+  left: 53px;
+  top: 6271px;
+
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 27px;
+  letter-spacing: 0.02em;
+
+  color: #000000;
 }
 
 .infogreen {
-    position: absolute;
-    width: 307px;
-    height: 445px;
-    left: 39px;
-    top: 6312px;
-    
-    font-family: 'Helvetica';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    /* or 150% */
-    
-    letter-spacing: 0.02em;
-    
-    color: #3A3A3A;
+  position: absolute;
+  width: 307px;
+  height: 445px;
+  left: 39px;
+  top: 6312px;
+
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* or 150% */
+
+  letter-spacing: 0.02em;
+
+  color: #3a3a3a;
 }
 
 .bluet {
-    position: absolute;
-    width: 279px;
-    height: 38.85px;
-    left: 53px;
-    top: 6796px;
-    
-    font-family: 'DM Serif Display';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 27px;
-    letter-spacing: 0.02em;
-    
-    color: #000000;
+  position: absolute;
+  width: 279px;
+  height: 38.85px;
+  left: 53px;
+  top: 6796px;
+
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 27px;
+  letter-spacing: 0.02em;
+
+  color: #000000;
 }
 
 .infoblue {
-    position: absolute;
-    width: 307px;
-    height: 437.9px;
-    left: 39px;
-    top: 6840.1px;
-    
-    font-family: 'Helvetica';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    /* or 150% */
-    
-    letter-spacing: 0.02em;
-    
-    color: #3A3A3A;
+  position: absolute;
+  width: 307px;
+  height: 437.9px;
+  left: 39px;
+  top: 6840.1px;
+
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* or 150% */
+
+  letter-spacing: 0.02em;
+
+  color: #3a3a3a;
 }
 
 .purplet {
-    position: absolute;
-width: 279px;
-height: 37px;
-left: 53px;
-top: 7326px;
+  position: absolute;
+  width: 279px;
+  height: 37px;
+  left: 53px;
+  top: 7326px;
 
-font-family: 'DM Serif Display';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 27px;
-letter-spacing: 0.02em;
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 27px;
+  letter-spacing: 0.02em;
 
-color: #000000;
+  color: #000000;
 }
 
 .infopurple {
-    position: absolute;
-    width: 307px;
-    height: 482px;
-    left: 39px;
-    top: 7369px;
-    
-    font-family: 'Helvetica';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    /* or 150% */
-    
-    letter-spacing: 0.02em;
-    
-    color: #3A3A3A;
+  position: absolute;
+  width: 307px;
+  height: 482px;
+  left: 39px;
+  top: 7369px;
+
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* or 150% */
+
+  letter-spacing: 0.02em;
+
+  color: #3a3a3a;
 }
 
 /* top circles */
 
 .circleBase {
-    border-radius: 50%;
+  border-radius: 50%;
 }
 
 .circle1 {
-    position: absolute;
-    width: 13px;
-    height: 13px;
-    left: 28px;
-    top: 200px;
-    
-    background: #000000;
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  left: 28px;
+  top: 200px;
+
+  background: #000000;
 }
 
 .circle2 {
-    position: absolute;
-width: 13px;
-height: 13px;
-left: 67px;
-top: 200px;
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  left: 67px;
+  top: 200px;
 
-background: #F1F1F1;
+  background: #f1f1f1;
 }
 
 .circle3 {
-    position: absolute;
-width: 13px;
-height: 13px;
-left: 105px;
-top: 200px;
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  left: 105px;
+  top: 200px;
 
-background: #FEE71A;
+  background: #fee71a;
 }
 
 .circle4 {
-    position: absolute;
-width: 13px;
-height: 13px;
-left: 143px;
-top: 200px;
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  left: 143px;
+  top: 200px;
 
-background: #F09001;
+  background: #f09001;
 }
 
 .circle5 {
-    position: absolute;
-    width: 13px;
-    height: 13px;
-    left: 182px;
-    top: 200px;
-    
-    background: #EC0000;
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  left: 182px;
+  top: 200px;
+
+  background: #ec0000;
 }
 
 .circle6 {
-    position: absolute;
-    width: 13px;
-    height: 13px;
-    left: 221px;
-    top: 200px;
-    
-    background: #2AAA1F;   
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  left: 221px;
+  top: 200px;
+
+  background: #2aaa1f;
 }
 
 .circle7 {
-    position: absolute;
-width: 13px;
-height: 13px;
-left: 259px;
-top: 200px;
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  left: 259px;
+  top: 200px;
 
-background: #0038FF;
+  background: #0038ff;
 }
 
 .circle8 {
-    position: absolute;
-width: 13px;
-height: 13px;
-left: 298px;
-top: 200px;
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  left: 298px;
+  top: 200px;
 
-background: #9003FF;
+  background: #9003ff;
 }
 
 /* center circles */
 
 .circleBase {
-    border-radius: 50%;
+  border-radius: 50%;
 }
 
 .circle9 {
-    position: absolute;
-    width: 8px;
-    height: 8px;
-    left: 27px;
-    top: 3626px;
-    
-    background: #000000;
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  left: 27px;
+  top: 3626px;
+
+  background: #000000;
 }
 
 .circle10 {
-    position: absolute;
-    width: 8px;
-    height: 8px;
-    left: 30px;
-    top: 4139px;
-    
-    background: #F1F1F1;
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  left: 30px;
+  top: 4139px;
+
+  background: #f1f1f1;
 }
 
 .circle11 {
-    position: absolute;
-    width: 8px;
-    height: 8px;
-    left: 30px;
-    top: 4625px;
-    
-    background: #FEE71A;
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  left: 30px;
+  top: 4625px;
+
+  background: #fee71a;
 }
 
 .circle12 {
-    position: absolute;
-    width: 8px;
-    height: 8px;
-    left: 30px;
-    top: 5172px;
-    
-    background: #F09001;
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  left: 30px;
+  top: 5172px;
+
+  background: #f09001;
 }
 
 .circle13 {
-    position: absolute;
-    width: 8px;
-    height: 8px;
-    left: 30px;
-    top: 5711px;
-    
-    background: #EC0000;
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  left: 30px;
+  top: 5711px;
+
+  background: #ec0000;
 }
 
 .circle14 {
-    position: absolute;
-    width: 8px;
-    height: 8px;
-    left: 30px;
-    top: 6281px;
-    
-    background: #2AAA1F;
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  left: 30px;
+  top: 6281px;
+
+  background: #2aaa1f;
 }
 
 .circle15 {
-    position: absolute;
-    width: 8px;
-    height: 8.4px;
-    left: 30px;
-    top: 6806.5px;
-    
-    background: #0038FF;
+  position: absolute;
+  width: 8px;
+  height: 8.4px;
+  left: 30px;
+  top: 6806.5px;
+
+  background: #0038ff;
 }
 
 .circle16 {
-    position: absolute;
-    width: 8px;
-    height: 8px;
-    left: 30px;
-    top: 7336px;
-    
-    background: #9003FF;
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  left: 30px;
+  top: 7336px;
+
+  background: #9003ff;
 }
 
 /*  bottom circles */
 
 .circleBase {
-    border-radius: 50%;
+  border-radius: 50%;
 }
 
 .circle17 {
-    position: absolute;
-    width: 13px;
-    height: 13px;
-    left: 43px;
-    top: 7926px;
-    
-    background: #000000;
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  left: 43px;
+  top: 7926px;
+
+  background: #000000;
 }
 
 .circle18 {
-    position: absolute;
-    width: 13px;
-    height: 13px;
-    left: 83px;
-    top: 7926px;
-    
-    background: #F1F1F1;
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  left: 83px;
+  top: 7926px;
+
+  background: #f1f1f1;
 }
 
 .circle19 {
-    position: absolute;
-    width: 13px;
-    height: 13px;
-    left: 120px;
-    top: 7926px;
-    
-    background: #FEE71A;
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  left: 120px;
+  top: 7926px;
+
+  background: #fee71a;
 }
 
 .circle20 {
-    position: absolute;
-    width: 13px;
-    height: 13px;
-    left: 159px;
-    top: 7926px;
-    
-    background: #F09001;
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  left: 159px;
+  top: 7926px;
+
+  background: #f09001;
 }
 
 .circle21 {
-    position: absolute;
-    width: 13px;
-    height: 13px;
-    left: 198px;
-    top: 7926px;
-    
-    background: #EC0000;
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  left: 198px;
+  top: 7926px;
+
+  background: #ec0000;
 }
 
 .circle22 {
-    position: absolute;
-    width: 13px;
-    height: 13px;
-    left: 236px;
-    top: 7926px;
-    
-    background: #2AAA1F;
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  left: 236px;
+  top: 7926px;
+
+  background: #2aaa1f;
 }
 
 .circle23 {
-    position: absolute;
-    width: 13px;
-    height: 13px;
-    left: 275px;
-    top: 7926px;
-    
-    background: #0038FF;
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  left: 275px;
+  top: 7926px;
+
+  background: #0038ff;
 }
 
 .circle24 {
-    position: absolute;
-    width: 13px;
-    height: 13px;
-    left: 314px;
-    top: 7926px;
-    
-    background: #9003FF;
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  left: 314px;
+  top: 7926px;
+
+  background: #9003ff;
 }
 
 .jump {
-    position: absolute;
-width: 119px;
-height: 27px;
-left: 42px;
-top: 7963px;
+  position: absolute;
+  width: 119px;
+  height: 27px;
+  left: 42px;
+  top: 7963px;
 
-font-family: 'DM Serif Display';
-font-style: italic;
-font-weight: 400;
-font-size: 20px;
-line-height: 27px;
-letter-spacing: 0.02em;
-text-decoration-line: underline;
+  font-family: "DM Serif Display";
+  font-style: italic;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 27px;
+  letter-spacing: 0.02em;
+  text-decoration-line: underline;
 
-color: #3D3D3D;
+  color: #3d3d3d;
 }
 
 @font-face {
-    font-family: DM Serif Display Italic;
-    src: url(DMSerifDisplay-Italic.ttf);
+  font-family: DM Serif Display Italic;
+  src: url(DMSerifDisplay-Italic.ttf);
 }
 
 @font-face {
-    font-family: DM Serif Display;
-    src: url(DMSerifDisplay-Regular.ttf);
+  font-family: DM Serif Display;
+  src: url(DMSerifDisplay-Regular.ttf);
 }
