@@ -121,10 +121,81 @@ H3 {
     padding: var(--page-spacing);
   }
 
+  Body {
+    background-color: rgb(207, 207, 207);
+  }
+
+
   .mainParagraph {
     margin-left: 500px;
-    /* width: 65ch; */
+    /* width: 60ch; */
   }
+
+  .mainParagraphblack {
+    margin-left: 500px;
+    /* width: 60ch; */
+  }
+  .mainParagraphblack:hover {
+    color: rgb(0, 0, 0);
+    }
+
+  .mainParagraphwhite {
+    margin-left: 500px;
+    /* width: 60ch; */
+  }
+  .mainParagraphwhite:hover {
+    color: rgb(255, 255, 255);
+    }
+
+  .mainParagraphyellow {
+    margin-left: 500px;
+    /* width: 60ch; */
+  }
+  .mainParagraphyellow:hover {
+    color: rgb(255, 223, 18);
+    }
+
+  .mainParagraphorange {
+    margin-left: 500px;
+    /* width: 60ch; */
+  }
+  .mainParagraphorange:hover {
+    color: rgb(255, 104, 17);
+    }
+
+  .mainParagraphred {
+    margin-left: 500px;
+    /* width: 60ch; */
+  }
+  .mainParagraphred:hover {
+    color: rgb(220, 0, 0);
+    }
+
+  .mainParagraphgreen {
+    margin-left: 500px;
+    /* width: 60ch; */
+  }
+  .mainParagraphgreen:hover {
+    color: rgb(20, 152, 0);
+    }
+
+  .mainParagraphblue {
+    margin-left: 500px;
+    /* width: 60ch; */
+  }
+  .mainParagraphblue:hover {
+    color: rgb(0, 0, 255);
+    }
+
+
+
+  .mainParagraphpurple {
+    margin-left: 500px;
+    /* width: 60ch; */
+  }
+  .mainParagraphpurple:hover {
+    color: rgb(125, 0, 214);
+    }
 
   .circleFlex {
     width: 200px;
@@ -133,6 +204,6 @@ H3 {
   .bibliography {
     position: absolute;
     top: 200px;
-    max-width: 450px;
+    max-width: 400px;
   }
 }
