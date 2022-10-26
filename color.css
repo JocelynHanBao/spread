@@ -1,11 +1,13 @@
 :root {
-  margin-inline: 30px;
+  --margin-inline: 8px;
   --body-copy: 16px;
   --pagespacing: 24px;
   --main-heading: calc(var(--body-copy) * 3);
   --sub-heading: calc(var(--body-copy) * 1);
 }
-
+img {
+  margin-inline: 30px;
+}
 Body {
   font-family: sans-serif;
   font-size: var(--body-copy);
@@ -94,7 +96,7 @@ H3 {
   position: relative;
   left: -78px;
   display: flex;
-  width: 100vw;
+  width: 110vw;
   margin: 60px 0px;
   background-color: #000;
   justify-content: center;
@@ -104,7 +106,7 @@ H3 {
   :root {
     --body-copy: 20px;
     --pagespacing: 50px;
-
+    margin-inline: 30px;
     --main-heading: calc(var(--body-copy) * 4.5);
     --sub-heading: calc(var(--body-copy) * 1);
   }
@@ -125,7 +127,6 @@ H3 {
     background-color: rgb(207, 207, 207);
   }
 
-
   .mainParagraph {
     margin-left: 500px;
     /* width: 60ch; */
@@ -137,7 +138,7 @@ H3 {
   }
   .mainParagraphblack:hover {
     color: rgb(0, 0, 0);
-    }
+  }
 
   .mainParagraphwhite {
     margin-left: 500px;
@@ -145,7 +146,7 @@ H3 {
   }
   .mainParagraphwhite:hover {
     color: rgb(255, 255, 255);
-    }
+  }
 
   .mainParagraphyellow {
     margin-left: 500px;
@@ -153,7 +154,7 @@ H3 {
   }
   .mainParagraphyellow:hover {
     color: rgb(255, 223, 18);
-    }
+  }
 
   .mainParagraphorange {
     margin-left: 500px;
@@ -161,7 +162,7 @@ H3 {
   }
   .mainParagraphorange:hover {
     color: rgb(255, 104, 17);
-    }
+  }
 
   .mainParagraphred {
     margin-left: 500px;
@@ -169,7 +170,7 @@ H3 {
   }
   .mainParagraphred:hover {
     color: rgb(220, 0, 0);
-    }
+  }
 
   .mainParagraphgreen {
     margin-left: 500px;
@@ -177,7 +178,7 @@ H3 {
   }
   .mainParagraphgreen:hover {
     color: rgb(20, 152, 0);
-    }
+  }
 
   .mainParagraphblue {
     margin-left: 500px;
@@ -185,9 +186,7 @@ H3 {
   }
   .mainParagraphblue:hover {
     color: rgb(0, 0, 255);
-    }
-
-
+  }
 
   .mainParagraphpurple {
     margin-left: 500px;
@@ -195,7 +194,7 @@ H3 {
   }
   .mainParagraphpurple:hover {
     color: rgb(125, 0, 214);
-    }
+  }
 
   .circleFlex {
     width: 200px;
@@ -206,4 +205,35 @@ H3 {
     top: 200px;
     max-width: 400px;
   }
+}
+
+@media print {
+  head,
+  footer,
+  aside,
+  form,
+  … {
+    display: none;
+  }
+  img {
+    page-break-before: auto; /* 'always,' 'avoid,' 'left,' 'inherit,' or 'right' */
+    page-break-after: auto; /* 'always,' 'avoid,' 'left,' 'inherit,' or 'right' */
+    page-break-inside: avoid; /* or 'auto' */
+    display: block;
+  }
+  article {
+    width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  p {
+    font-size: 112%;
+  }
+  div {
+    font-size: 100%;
+  }
+}
+
+@page {
+  margin: 2cm;
 }
